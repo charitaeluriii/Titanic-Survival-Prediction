@@ -19,7 +19,7 @@ To run this project, make sure you have the following installed:
 ## Usage
 1. Download the datasets `train.csv` and `test.csv` from the repository.
 2. Run the Jupyter Notebook using:
-```bash
+
 jupyter notebook titanic_prediction.ipynb
 
 ## Results
