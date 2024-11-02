@@ -15,8 +15,7 @@ This project aims to predict the survival outcomes of passengers aboard the RMS 
 To run this project, make sure you have the following installed:
 - Python 3.x
 - Required libraries:
-```bash
-pip install pandas scikit-learn
+(pip install pandas scikit-learn)
 ## Usage
 1. Download the datasets `train.csv` and `test.csv` from the repository.
 2. Run the Jupyter Notebook using:
